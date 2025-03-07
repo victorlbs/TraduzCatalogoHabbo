@@ -1,5 +1,5 @@
 <?php
-// Conexão com o banco de dados (ajuste as credenciais conforme necessário)
+set_time_limit(0);
 $host = 'localhost';
 $dbname = 'teste';
 $user = 'root';
